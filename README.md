@@ -1,5 +1,5 @@
 # PicoyPlaca Python
-<\n>This program is a Pico y Placa predictor for Quito, Ecuador. 
+<p>This program is a Pico y Placa predictor for Quito, Ecuador. <\p>
 <\n> Pico y placa is a vehicle restriction system implemented first time in Bogota, Colombia but adopted by other cities like Quito. 
 According to this system, motor vehicles (private cars and motorcycles) may not be circulated, the last digit of the plate ending in: Monday: 1 & 2
 Tuesday: 3 & 4
