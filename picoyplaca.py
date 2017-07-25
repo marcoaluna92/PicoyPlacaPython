@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 
-import numpy as np
 import time as tm
 from datetime import datetime, date, time
 
